@@ -1,0 +1,7 @@
+# DB for a Hospital
+# sqlite3 (SQL-Python)
+# 3 Buttons: Dr - Appointment - Patients
+# each one has it's own page for the data
+# TKinter
+# Name - Department - OPD Timing - Room - Phone - Add Entry - Delete Entry - View All
+# bind
