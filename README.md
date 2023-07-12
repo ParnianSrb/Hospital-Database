@@ -1,5 +1,5 @@
-# A Hospital Database
-# This project stores a hospital's staff and patients information using SQLite3 and TKinter written in Python
+# Hospital Database
+## This project stores a hospital's staff and patients information using SQLite3 and TKinter written in Python
 
 There are three tables in the database including Doctors, Appointments and Patients. Each entity owns several specific fields, for Doctors table fields are as follows: First Name, Last Name, Department Number, Room Number, Phone and OPD starting/ending period. Likewise, for Patients table, they are First Name, Last Name, Age, Ward Number, Disease Title and Phone number. Finally, Appointments table contains full name of patients and their appointed doctor, also Phone Number and appointment's Submit Time.
 
